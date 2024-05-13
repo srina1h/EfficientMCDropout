@@ -1,4 +1,4 @@
-# Efficient Monte Carlo dropouts for uncertainty estimation
+# Efficient Monte Carlo dropout for uncertainty estimation
 
 This is an article written as a part of the Final course project for CSC591 - Efficient Deep Learning at NC State University taught by Prof. Dongkuan Xu.
 
